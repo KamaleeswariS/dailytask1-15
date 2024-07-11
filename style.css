@@ -1,0 +1,144 @@
+body{
+    background-color: rgb(13, 13, 13);
+    height: 20em;
+}
+
+button{
+    height: 40px;
+    width: 70px;
+    background-color: rgb(249, 9, 9);    
+    font-weight: bold;
+    font-size: 20px;    
+    margin: 2px;
+    box-sizing: border-box;
+    box-shadow: 8px;
+    color:  rgb(112, 248, 228);
+    box-shadow: inset 1px 1px 5px 5px;
+    border: 2px solid rgb(144, 238, 216);
+    text-align: center;                  
+    }
+    #pagination{    
+        display: flex;
+        justify-content: center;
+        margin-top: 12px;
+        margin-bottom: 15px;
+    
+    }
+    
+    .container{
+        margin-top: 10px;
+        text-align: center;
+        height: 35em;
+    
+    } 
+    .table thead{
+        font-size: 25px;
+        font-family: 'Times New Roman', Times, serif; 
+        background-color: rgb(22, 37, 247) !important;
+        color: lightgreen !important ; 
+        font-weight: 950;
+        padding: 2px;  
+    
+    } 
+    button{
+        height: 40px;
+        width: 70px;
+        background-color: rgb(49, 9, 249);    
+        font-weight: bold;
+        font-size: 20px;    
+        margin: 2px;
+        box-sizing: border-box;
+        box-shadow: 8px;
+        color:  rgb(112, 248, 112);
+        box-shadow: inset 1px 1px 5px 5px;
+        border: 2px solid lightgreen;
+        text-align: center;                  
+    
+    }
+    #pagination{    
+        display: flex;
+        justify-content: center;
+        margin-top: 12px;
+        margin-bottom: 15px;
+    
+    }
+    .container{
+        margin-top: 10px;
+        text-align: center;
+        height: 35em;
+    
+    } 
+    .table thead{
+        font-size: 25px;
+        font-family: 'Times New Roman', Times, serif; 
+        background-color: rgb(22, 37, 247) !important;
+        color: lightgreen !important ; 
+        font-weight: 950;
+        padding: 2px;  
+    
+    } 
+    #table-body{
+    
+        font-size: 12px;
+        color:  rgb(22, 37, 247);
+        font-family: 'Times New Roman', Times, serif;
+        background-color: lightgreen;
+        font-weight: bold;
+        height: 10em;
+        padding: 0;
+    }
+    button{
+        height: 40px;
+        width: 70px;
+        background-color: rgb(49, 9, 249);    
+        font-weight: bold;
+        font-size: 20px;    
+        margin: 2px;
+        box-sizing: border-box;
+        box-shadow: 8px;
+        color:  rgb(112, 248, 112);
+        box-shadow: inset 1px 1px 5px 5px;
+        border: 2px solid lightgreen;
+        text-align: center;                  
+    
+    }
+    #pagination{    
+        display: flex;
+        justify-content: center;
+        margin-top: 12px;
+        margin-bottom: 15px;
+    
+    }
+    .container{
+        margin-top: 10px;
+        text-align: center;
+        height: 35em;
+    
+    } 
+    .table thead{
+        font-size: 25px;
+        font-family: 'Times New Roman', Times, serif; 
+        background-color: rgb(22, 37, 247) !important;
+        color: lightgreen !important ; 
+        font-weight: 950;
+        padding: 2px;  
+    
+    } 
+    #table-body{
+    
+        font-size: 12px;
+        color:  rgb(22, 37, 247);
+        font-family: 'Times New Roman', Times, serif;
+        background-color: lightgreen;
+        font-weight: bold;
+        height: 10em;
+        padding: 0;
+    }
+    span{
+        display: flex;
+        justify-content: center;   
+        font-style: italic;
+        font-weight: bolder;
+        font-size: 1rem;
+    
+    }
